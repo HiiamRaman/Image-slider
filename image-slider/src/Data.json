@@ -1,0 +1,38 @@
+ {
+"imageslide": [               
+    {
+ 
+    "url": "https://picsum.photos/id/237/1000/600",
+     "title": "Sample Image 1"
+      
+    },
+    {
+     
+    "url": "https://picsum.photos/seed/picsum/1000/600",
+     "title": "Sample Image 2"
+      
+    },
+    {
+  
+    "url": "https://picsum.photos/id/9/5000/3269.jpg",
+      "title": "Sample Image 3"
+      
+    },
+    {
+     
+    "url": "https://picsum.photos/id/26/4209/2769",
+      "title": "Sample Image 4"
+     
+    },
+    {
+      
+    "url": "https://picsum.photos/id/65/4912/3264",
+      "title": "Sample Image 5"
+      
+    }
+  ]
+  
+ }
+
+
+  
